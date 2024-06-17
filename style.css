@@ -127,7 +127,7 @@
     max-width: 960px;
     margin: auto;
 }*/
-@media only screen and (max-width: 990px) {
+/*@media only screen and (max-width: 990px) {
     .Home{
         height: auto;
         display: flex;
@@ -136,7 +136,7 @@
         justify-content: center;
     }
 }
-/*@media (min-width: 768px) {
+@media (min-width: 768px) {
     .Home {
         max-width: 720px;
     }
