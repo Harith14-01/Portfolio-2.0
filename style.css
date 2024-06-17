@@ -136,7 +136,7 @@
         justify-content: center;
     }
 }
-@media (min-width: 768px) {
+/*@media (min-width: 768px) {
     .Home {
         max-width: 720px;
     }
@@ -192,7 +192,7 @@
         flex: 0 0 auto;
         width: 50%;
     }
-}
+}*/
 /*@media only screen and (max-width:576px) {
     .body,.contact,.img{
         width: 50%; 
